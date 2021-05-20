@@ -1,0 +1,8 @@
+####
+
+
+class accnt
+  __init__ = (type = None)
+  funds = {:}
+  def count_add:
+  for index, value in enumerate(funds.flatter())
